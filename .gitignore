@@ -1,0 +1,4 @@
+google_files/*
+list.csv
+db.csv
+__pycache__
