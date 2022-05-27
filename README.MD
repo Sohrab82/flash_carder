@@ -1,4 +1,4 @@
-## Flash Card Application
+## Flashcard Application
 
 This application is a flash card app in Python and can load the __saved google translate xslx files__ and add them to your dictionary. You can save your _saved google translation history_ and put the xlsx file in __google_files__ directory. The words will be imported into the dictionary and played to you for practice.
 
